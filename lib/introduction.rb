@@ -1,7 +1,7 @@
-def introduction (name)
+def introduction(name)
   puts "Hi, my name is #{name}"
   
-  introduction (name)
+  introduction(name)
 
 
 
